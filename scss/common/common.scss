@@ -1,0 +1,15 @@
+//Данные, которые создаются страндартно и для всего проекта
+
+body {
+   font-family: $defaultFont;
+   font-style: normal;
+   font-size: 16px;
+   line-height: 1.2;
+   font-weight: normal;
+}
+
+.wrapper {
+   max-width: $wrapperWidth;
+   padding: 0 15px;
+   margin: 0 auto;
+}

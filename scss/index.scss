@@ -1,0 +1,5 @@
+// Сюда подключаются компоненты для главной страницы (Index.html) Важно, что папка common подлючается также, для рабоыт стилей.
+
+@import "./common/index.scss";
+@import "./components/header/index.scss";
+@import "./components/intro/index.scss";
